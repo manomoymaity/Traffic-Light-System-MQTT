@@ -1,0 +1,16 @@
+This repository contains the code for a 4-way junction traffic light system. The system is MQTT enabled, allowing updates to be seen and controlled through an app using the MQTT protocol.
+
+Features
+4-Way Junction Control: Manages traffic lights for a 4-way intersection.
+MQTT Enabled: Real-time updates and control via an MQTT-based app.
+Configurable Timings: Easily adjust the duration of red, yellow.
+
+Wokwi Link : https://wokwi.com/projects/405007811293110273
+
+Components:
+Esp 32 x 1
+Led[Red] x 4
+Led[Green] x 4
+Led[Blue] x 4
+Led[Yellow] x 4
+wires x (as needed)
